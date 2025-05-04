@@ -23,7 +23,8 @@
 
 ## **Skills**
 - **Programming Languages**: Python, SQL, JavaScript
-- **Web Development**: HTML, CSS, Bootstrap, Django
+- **Frontend Development**: HTML, CSS, JavaScript, React, Bootstrap.
+- **Backend Development**: Node.js, Python, SQL.
 - **Mobile Development**: Flutter, Dart
 - **Databases**: SQLite, Firebase
 - **Tools**: Git, Visual Studio Code, Android Studio, PyCharm
