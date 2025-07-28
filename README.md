@@ -17,9 +17,6 @@
 
 
 
-## My Coding Profile
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-leetcode-profile)
 
 ## **Skills**
 - **Programming Languages**: Python, SQL, JavaScript
