@@ -23,12 +23,12 @@
 
 ## **Skills**
 - **Programming Languages**: Python, SQL, JavaScript
-- **Frontend Development**: HTML, CSS, JavaScript, React, Bootstrap.
+- **Frontend Development**: HTML, CSS, JavaScript,Bootstrap.
 - **Backend Development**: Node.js, Python, SQL.
 - **Mobile Development**: Flutter, Dart
-- **Databases**: SQLite, Firebase
-- **Tools**: Git, Visual Studio Code, Android Studio, PyCharm
-- **Others**: Responsive Web design, API integration, UI/UX Design Principles
+- **Databases**: SQLite
+- **Tools**: Git, Visual Studio Code, Android Studio
+- **Others**: Responsive Web design, API integration
 
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python"> 
@@ -43,7 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30" height="30" alt="Dart">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" height="30" alt="SQLite">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" height="30" alt="Firebase">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30" alt="Visual Studio Code">
